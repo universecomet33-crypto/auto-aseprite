@@ -1,5 +1,6 @@
 import requests
 import os
+choco install openssl --version=1.1.1.2000
 
 ASEPRITE_REPOSITORY = "aseprite/aseprite"
 SKIA_REPOSITORY = "aseprite/skia"
